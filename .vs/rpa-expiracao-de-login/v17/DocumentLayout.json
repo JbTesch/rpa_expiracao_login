@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RPAs\\rpa-expiracao-de-login\\rpa-expiracao-de-login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB185D36-99C9-4ED6-8883-781FAD4811B8}|rpa-expiracao-de-login.pyproj|D:\\RPAs\\rpa-expiracao-de-login\\rpa-expiracao-de-login\\rpa_expiracao_de_login.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AB185D36-99C9-4ED6-8883-781FAD4811B8}|rpa-expiracao-de-login.pyproj|solutionrelative:rpa_expiracao_de_login.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rpa_expiracao_de_login.py",
+              "DocumentMoniker": "D:\\RPAs\\rpa-expiracao-de-login\\rpa-expiracao-de-login\\rpa_expiracao_de_login.py",
+              "RelativeDocumentMoniker": "rpa_expiracao_de_login.py",
+              "ToolTip": "D:\\RPAs\\rpa-expiracao-de-login\\rpa-expiracao-de-login\\rpa_expiracao_de_login.py",
+              "RelativeToolTip": "rpa_expiracao_de_login.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-10-23T12:03:03.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
